@@ -8,7 +8,7 @@
 <div id="badges" align="center">
    <img src="https://komarev.com/ghpvc/?username=rodrigovinales&label=Visitas&style=plastic-square&color=red" alt=""/>
   <hr>
-  <a href="https://www.linkedin.com/in/rodrigo-922b41116" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrigo-922b41116">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
