@@ -8,14 +8,14 @@
 <div id="badges" align="center">
    <img src="https://komarev.com/ghpvc/?username=rodrigovinales&label=Visitas&style=plastic-square&color=red" alt=""/>
   <hr>
-  <a href="linkedin.com/in/rodrigo-922b41116" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrigo-922b41116" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+https://www.linkedin.com/in/rodrigo-922b41116?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYeMvXmTtTca5B8LH07wMxw%3D%3D
 ### 🇦🇷 Sobre Mi 🇦🇷 :
 - :zap: Actualmente estudiando la carrera Full Stack.
 
@@ -23,7 +23,7 @@
 
 - :zap: En mis tiempos libres, me dedico a aprender codigo.
 
-- Mas información ===> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/rodrigo-922b41116)
+- Mas información ===> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-922b41116)
 
 ### Cursos y conocimientos :
 <div align="center">
@@ -49,21 +49,3 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rodrigovinales&theme=github-dark&date_format=j%20M%5B%20Y%5D&sideLabels=DDD6C5&dates=B4D5DD&ring=2824DD)](https://git.io/streak-stats)
   
-
-
-
- 
-<!--
-**rodrigovinales/rodrigovinales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
