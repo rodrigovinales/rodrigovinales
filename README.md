@@ -15,7 +15,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-https://www.linkedin.com/in/rodrigo-922b41116?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYeMvXmTtTca5B8LH07wMxw%3D%3D
 ### 🇦🇷 Sobre Mi 🇦🇷 :
 - :zap: Actualmente estudiando la carrera Full Stack.
 
